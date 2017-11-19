@@ -22,11 +22,21 @@ To install **FRETBursts** see [FRETBursts Install instructions](http://fretburst
 View Online
 -----------
 
-You can view the notebooks online [on nbviewer](http://nbviewer.jupyter.org/github/tritemio/FRETBursts_notebooks/tree/master/notebooks/). Here the direct link for each notebook:
+You can view the notebooks online [on nbviewer](http://nbviewer.jupyter.org/github/tritemio/FRETBursts_notebooks/tree/master/notebooks/). Below you find the direct links to each notebook.
+
+Tutorials
+---------
 
 * [FRETBursts - us-ALEX smFRET burst analysis](http://nbviewer.jupyter.org/github/tritemio/FRETBursts_notebooks/blob/master/notebooks/FRETBursts%20-%20us-ALEX%20smFRET%20burst%20analysis.ipynb) *(start here)*
 * [FRETBursts - ns-ALEX example](http://nbviewer.jupyter.org/github/tritemio/FRETBursts_notebooks/blob/master/notebooks/FRETBursts%20-%20ns-ALEX%20example.ipynb)
 * [FRETBursts - 8-spot smFRET burst analysis](http://nbviewer.jupyter.org/github/tritemio/FRETBursts_notebooks/blob/master/notebooks/FRETBursts%20-%208-spot%20smFRET%20burst%20analysis.ipynb)
+
+Short examples
+--------------
+
+* [Example - FRET histogram fitting.ipynb](http://nbviewer.jupyter.org/github/OpenSMFS/FRETBursts_notebooks/blob/master/notebooks/Example%20-%20FRET%20histogram%20fitting.ipynb)
+* [Example - Selecting FRET populations.ipynb](http://nbviewer.jupyter.org/github/OpenSMFS/FRETBursts_notebooks/blob/master/notebooks/Example%20-%20Selecting%20FRET%20populations.ipynb)
+* [Example - Plotting timetraces with bursts.ipynb](http://nbviewer.jupyter.org/github/OpenSMFS/FRETBursts_notebooks/blob/master/notebooks/Example%20-%20Plotting%20timetraces%20with%20bursts.ipynb)
 * [Example - Customize the us-ALEX histogram.ipynb](http://nbviewer.jupyter.org/github/tritemio/FRETBursts_notebooks/blob/master/notebooks/Example%20-%20Customize%20the%20us-ALEX%20histogram.ipynb)
 * [Example - Working with timestamps and bursts](http://nbviewer.jupyter.org/github/tritemio/FRETBursts_notebooks/blob/master/notebooks/Example%20-%20Working%20with%20timestamps%20and%20bursts.ipynb)
 * [Example - Burst Variance Analysis](http://nbviewer.jupyter.org/github/tritemio/FRETBursts_notebooks/blob/master/notebooks/Example%20-%20Burst%20Variance%20Analysis.ipynb)
