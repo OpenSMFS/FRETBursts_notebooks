@@ -11,6 +11,15 @@ The same notebooks are included in the
 but the version found here contains all the execution outputs (text, tables and figures)
 and are therefore easier to read.
 
+Run Online
+----------
+
+As a demo service, you can run all FRETBursts notebooks on the cloud by clicking below:
+
+[![Binder](https://mybinder.org/badge.svg)](https://mybinder.org/v2/gh/OpenSMFS/FRETBursts_notebooks/master)
+
+This service is kindly provided by [BinderHub](https://mybinder.org/).
+
 Download
 --------
 
