@@ -5,16 +5,16 @@ What's this?
 ------------
 
 This repository contains Jupyter Notebook tutorials for the
-[FRETBursts](http://tritemio.github.io/FRETBursts/) burst analysis software.
+[FRETBursts](http://opensmfs.github.io/FRETBursts/) burst analysis software.
 The same notebooks are included in the
-[FRETBursts source](https://github.com/tritemio/FRETBursts/tree/master/notebooks)
+[FRETBursts source](https://github.com/OpenSMFS/FRETBursts/tree/master/notebooks)
 but the version found here contains all the execution outputs (text, tables and figures)
 and are therefore easier to read.
 
 Download
 --------
 
-Direct download of all FRETBursts notebooks/tutorials: [**Download ZIP**](https://github.com/tritemio/FRETBursts_notebooks/archive/master.zip).
+Direct download of all FRETBursts notebooks/tutorials: [**Download ZIP**](https://github.com/OpenSMFS/FRETBursts_notebooks/archive/master.zip).
 
 To install **FRETBursts** see [FRETBursts Install instructions](http://fretbursts.readthedocs.org/en/latest/getting_started.html).
 
