@@ -43,13 +43,14 @@ Tutorials
 Short examples
 --------------
 
+* [Example - Background estimation.ipynb](http://nbviewer.jupyter.org/github/OpenSMFS/FRETBursts_notebooks/blob/master/notebooks/Example%20-%20Background%20estimation.ipynb)
 * [Example - FRET histogram fitting.ipynb](http://nbviewer.jupyter.org/github/OpenSMFS/FRETBursts_notebooks/blob/master/notebooks/Example%20-%20FRET%20histogram%20fitting.ipynb)
 * [Example - Selecting FRET populations.ipynb](http://nbviewer.jupyter.org/github/OpenSMFS/FRETBursts_notebooks/blob/master/notebooks/Example%20-%20Selecting%20FRET%20populations.ipynb)
-* [Example - Plotting timetraces with bursts.ipynb](http://nbviewer.jupyter.org/github/OpenSMFS/FRETBursts_notebooks/blob/master/notebooks/Example%20-%20Plotting%20timetraces%20with%20bursts.ipynb)
-* [Example - Customize the us-ALEX histogram.ipynb](http://nbviewer.jupyter.org/github/OpenSMFS/FRETBursts_notebooks/blob/master/notebooks/Example%20-%20Customize%20the%20us-ALEX%20histogram.ipynb)
 * [Example - Working with timestamps and bursts](http://nbviewer.jupyter.org/github/OpenSMFS/FRETBursts_notebooks/blob/master/notebooks/Example%20-%20Working%20with%20timestamps%20and%20bursts.ipynb)
 * [Example - Burst Variance Analysis](http://nbviewer.jupyter.org/github/OpenSMFS/FRETBursts_notebooks/blob/master/notebooks/Example%20-%20Burst%20Variance%20Analysis.ipynb)
 * [Example - 2CDE Method.ipynb](http://nbviewer.jupyter.org/github/OpenSMFS/FRETBursts_notebooks/blob/master/notebooks/Example%20-%202CDE%20Method.ipynb)
+* [Example - Plotting timetraces with bursts.ipynb](http://nbviewer.jupyter.org/github/OpenSMFS/FRETBursts_notebooks/blob/master/notebooks/Example%20-%20Plotting%20timetraces%20with%20bursts.ipynb)
+* [Example - Customize the us-ALEX histogram.ipynb](http://nbviewer.jupyter.org/github/OpenSMFS/FRETBursts_notebooks/blob/master/notebooks/Example%20-%20Customize%20the%20us-ALEX%20histogram.ipynb)
 * [Example - Exporting Burst Data Including Timestamps](http://nbviewer.jupyter.org/github/OpenSMFS/FRETBursts_notebooks/blob/master/notebooks/Example%20-%20Exporting%20Burst%20Data%20Including%20Timestamps.ipynb)
 
 
