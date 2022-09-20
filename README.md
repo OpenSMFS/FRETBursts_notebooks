@@ -52,6 +52,7 @@ Short examples
 * [Example - Plotting timetraces with bursts.ipynb](http://nbviewer.jupyter.org/github/OpenSMFS/FRETBursts_notebooks/blob/master/notebooks/Example%20-%20Plotting%20timetraces%20with%20bursts.ipynb)
 * [Example - Customize the us-ALEX histogram.ipynb](http://nbviewer.jupyter.org/github/OpenSMFS/FRETBursts_notebooks/blob/master/notebooks/Example%20-%20Customize%20the%20us-ALEX%20histogram.ipynb)
 * [Example - Exporting Burst Data Including Timestamps](http://nbviewer.jupyter.org/github/OpenSMFS/FRETBursts_notebooks/blob/master/notebooks/Example%20-%20Exporting%20Burst%20Data%20Including%20Timestamps.ipynb)
+* [Example- Combining Technical Repeats.ipynb](http://nbviewer.jupyter.org/github/OpenSMFS/FRETBursts_notebooks/blob/master/notebooks/Example-%20Combining%20Technical%20Repeats.ipynb)
 
 
 Datasets
